@@ -1,4 +1,10 @@
 
+#👨‍💻 About Me
+
+💻 Computer Engineering Student passionate about software craftsmanship.
+🛠️ Full-Stack & Mobile Developer building scalable, real-world solutions.
+🧠 Deeply interested in optimizing Machine Learning workflows and Data Pipelines.
+📈 Constantly experimenting with emerging technologies and modern frameworks.
 
 <img src="https://komarev.com/ghpvc/?username=veershah696&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
