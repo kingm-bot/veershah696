@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/28674b36-7aa2-4adb-8c6b-618d1ba7dd6d" />
 
 #👨‍💻 About Me
 
