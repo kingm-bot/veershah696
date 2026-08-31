@@ -10,6 +10,8 @@
 
 📈 Constantly experimenting with emerging technologies and modern frameworks.
 
+✨ Front-End Developer passionate about crafting beautiful, responsive, and highly interactive user experiences. I specialize in turning complex designs into clean, semantic, and pixel-perfect code.
+
 <img src="https://komarev.com/ghpvc/?username=veershah696&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ## 🌐 Socials:
