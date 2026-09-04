@@ -4,7 +4,7 @@
 
 💻 Computer Engineering Student passionate about software craftsmanship.
 
-🛠️ Full-Stack & Mobile Developer building scalable, real-world solutions.
+🛠️ Full-Stack & Mobile Developer building scaleble , real-world solutions.
 
 🧠 Deeply interested in optimizing Machine Learning workflows and Data Pipelines.
 
