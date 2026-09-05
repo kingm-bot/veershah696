@@ -14,7 +14,6 @@ I'm a **Frontend Developer & Computer Engineering Student** focused on building
 - ⚡ **Performance** — Writing clean, optimized and maintainable frontend code
 - 🚀 **Currently Building** — Real-world web applications and creative interfaces
 - 🤝 **Open To** — Collaborating on frontend, web & open-source projects
-- **
 
 <img src="https://komarev.com/ghpvc/?username=veershah696&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
