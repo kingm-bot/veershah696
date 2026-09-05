@@ -1,8 +1,7 @@
 
 
 #👨‍💻 About Me
-
-> **Turning ideas and designs into fast, responsive, and engaging web experiences.**
+* Turning ideas and designs into fast, responsive, and engaging web experiences.
 
 I'm a **Frontend Developer & Computer Engineering Student** focused on building
 **modern, responsive, and user-friendly web applications**.
