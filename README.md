@@ -12,7 +12,7 @@ modern, responsive, and user-friendly web applications.
 - 📱 **Responsive Design** — Creating seamless experiences across every screen
 - 💡 **Problem Solving** – Turning complex coding challenges into clean, scalable, and efficient logic.
 - 🎓 **Continuous Learning**– Constantly exploring new frameworks and tools to stay ahead in web development.
-- 🛠️
+- 🛠️ **Design To Code**- Specializing in converting design files(like Figma or Adobe XD) into functional web pages.
 - 🚀 **Currently Building** — Real-world web applications and creative interfaces
 - 🤝 **Open To** — Collaborating on frontend, web & open-source projects
 
