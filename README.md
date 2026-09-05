@@ -3,8 +3,8 @@
 #👨‍💻 About Me
 * Turning ideas and designs into fast, responsive, and engaging web experiences.
 
-I'm a **Frontend Developer & Computer Engineering Student** focused on building
-**modern, responsive, and user-friendly web applications**.
+I'm a Frontend Developer & Computer Engineering Student focused on building
+modern, responsive, and user-friendly web applications.
 
 - 🎨 **Frontend Development** — Building clean, responsive & interactive interfaces
 - ⚛️ **Modern Web** — React.js, Next.js, JavaScript, HTML & CSS
