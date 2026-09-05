@@ -8,7 +8,7 @@
 
 🌱- I'm currently expanding my skills to Neural Networks, Deep Learning and advanced Frontend architecture.
 
-💻- Intersting Fact: Except for the code , because gt commit never lies! 😉
+💻- Intersting Fact: Except for the code , because git commit never lies! 😉
 
 * Turning ideas and designs into fast, responsive, and engaging web experiences.
 
