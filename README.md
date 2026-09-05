@@ -2,17 +2,19 @@
 
 #👨‍💻 About Me
 
-💻 Computer Engineering Student passionate about software craftsmanship.
+> **Turning ideas and designs into fast, responsive, and engaging web experiences.**
 
-🛠️ Full-Stack & Mobile Developer building scaleble , real-world solutions.
+I'm a **Frontend Developer & Computer Engineering Student** focused on building
+**modern, responsive, and user-friendly web applications**.
 
-🧠 Deeply interested in optimizing Machine Learning workflows and Data Pipelines.
-
-📈 Constantly experimenting with emerging technologies and modern frameworks.
-
-✨ Front-End Developer passionate about crafting beautiful, responsive, and highly interactive user experiences. I specialize in turning complex designs into clean, semantic, and pixel-perfect code.
-
-⭐ "Busy building my future. No time for distractions." 
+- 🎨 **Frontend Development** — Building clean, responsive & interactive interfaces
+- ⚛️ **Modern Web** — React.js, Next.js, JavaScript, HTML & CSS
+- 🧩 **UI/UX** — Turning designs into polished, pixel-perfect experiences
+- 📱 **Responsive Design** — Creating seamless experiences across every screen
+- ⚡ **Performance** — Writing clean, optimized and maintainable frontend code
+- 🚀 **Currently Building** — Real-world web applications and creative interfaces
+- 🤝 **Open To** — Collaborating on frontend, web & open-source projects
+- **
 
 <img src="https://komarev.com/ghpvc/?username=veershah696&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
