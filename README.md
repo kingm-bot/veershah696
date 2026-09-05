@@ -10,7 +10,9 @@ modern, responsive, and user-friendly web applications.
 - ⚛️ **Modern Web** — React.js, Next.js, JavaScript, HTML & CSS
 - 🧩 **UI/UX** — Turning designs into polished, pixel-perfect experiences
 - 📱 **Responsive Design** — Creating seamless experiences across every screen
-- ⚡ **Performance** — Writing clean, optimized and maintainable frontend code
+- 💡 **Problem Solving** – Turning complex coding challenges into clean, scalable, and efficient logic.
+- 🎓 **Continuous Learning**– Constantly exploring new frameworks and tools to stay ahead in web development.
+- 
 - 🚀 **Currently Building** — Real-world web applications and creative interfaces
 - 🤝 **Open To** — Collaborating on frontend, web & open-source projects
 
