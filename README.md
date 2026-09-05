@@ -3,9 +3,13 @@
 #👨‍💻 About Me
 
 🔭- I am a frontend developer who loves bulding interactive web experiences using Javascript, React and next.js, while actively exploring AI/ML with python.
+
 👯- I'm always open to collaborating on innovative web development and machine learning projects.
+
 🌱- I'm currently expanding my skills to Neural Networks, Deep Learning and advanced Frontend architecture.
-💻- Intersting Fact: Except for the code , because gt commit never lies.
+
+💻- Intersting Fact: Except for the code , because gt commit never lies! 😉
+
 * Turning ideas and designs into fast, responsive, and engaging web experiences.
 
 * I'm a Frontend Developer & Computer Engineering Student focused on building
