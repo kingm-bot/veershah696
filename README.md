@@ -1,6 +1,11 @@
 
 
 #👨‍💻 About Me
+
+🔭-
+👯-
+🌱
+💻
 * Turning ideas and designs into fast, responsive, and engaging web experiences.
 
 * I'm a Frontend Developer & Computer Engineering Student focused on building
